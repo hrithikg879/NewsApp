@@ -41,7 +41,7 @@
    
    <h1>How to Run </h1> 
    
-   <h2> Clone this repository for frontend part : <h2> 🔗 https://github.com/hrithikg879/NewsApp.git  <br>
+   <h2> Clone this repository for frontend part : <h2>https://github.com/hrit hikg879/NewsApp.git  <br>
    
     step1. open cmdpromt or gitbash  <br>
     step2. clone the repo..  <br>
