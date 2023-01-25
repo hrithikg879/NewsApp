@@ -46,7 +46,7 @@
     step1. open cmdpromt or gitbash  <br>
     step2. clone the repo..  <br>
     step3. npm i  <br>
-    step4. npm start   <br>
+    step4. npm start   <br> </h2>
      
    Runs the app in the development mode.  <br>
    Open http://localhost:3000 to view it in your browser.  <br>
