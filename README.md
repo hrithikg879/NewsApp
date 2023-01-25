@@ -41,12 +41,12 @@
    
    <h1>How to Run </h1> 
    
-   <h2> Clone this repository for frontend part : <h2>https://github.com/hrit hikg879/NewsApp.git  <br>
+   <h2> Clone this repository for frontend part : <h2>https://github.com/hrit hikg879/NewsApp.git </h2>  <br>
    
     step1. open cmdpromt or gitbash  <br>
     step2. clone the repo..  <br>
     step3. npm i  <br>
-    step4. npm start   <br> </h2>
+    step4. npm start   <br>
      
    Runs the app in the development mode.  <br>
    Open http://localhost:3000 to view it in your browser.  <br>
